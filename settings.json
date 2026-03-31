@@ -8,7 +8,7 @@
   "server": {
     "ip": "LegendsGang.aternos.me",
     "port": 54620,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false,
     "require-resource-pack": false
   },
